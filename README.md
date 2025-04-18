@@ -71,7 +71,7 @@ Visit the app in your browser at:
 http://localhost:5021/
 ```
 
-> By default, the app listens on host `45.129.99.27` and port `5021`. You can change this in `app.py`.
+> By default, the app listens on host `45.129.99.xx` and port `5021`. You can change this in `app.py`.
 
 ---
 
