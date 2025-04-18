@@ -1,0 +1,18 @@
+# requirements.txt
+# ----------
+# Flask web server
+Flask==2.3.2
+
+# Browser automation
+selenium==4.10.0
+
+# HTML parser
+beautifulsoup4==4.12.2
+
+# Optional for image analysis
+Pillow==10.2.0
+
+# chromedriver-autoinstaller
+chromedriver-autoinstaller==0.6.4
+
+requests
