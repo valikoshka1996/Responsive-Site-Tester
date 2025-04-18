@@ -45,4 +45,4 @@ def index():
 
 # Запуск сервера лише один раз
 if __name__ == '__main__':
-    app.run(debug=True, host='45.129.99.27', port=5021)
+    app.run(debug=True, host='45.129.99.xx', port=5021)
