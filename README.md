@@ -5,6 +5,8 @@ Sure! Here's a detailed `README.md` file in English for your **Responsive Tester
 # 🌐 Responsive Tester
 
 A web-based tool built with Flask that captures screenshots of a given website URL across multiple screen sizes (mobile, tablet, laptop, desktop) using Selenium, and optionally analyzes the page structure. Screenshots are automatically cleaned up when they exceed a certain disk space limit.
+![screen1](https://github.com/user-attachments/assets/03228ce9-7b1c-4daa-b520-bde45591015b)
+![screen2](https://github.com/user-attachments/assets/9561fdef-fb33-46a3-a20b-47a5525c7cc1)
 
 ## 📸 Features
 
